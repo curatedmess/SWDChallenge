@@ -1,1 +1,1 @@
-# Storytelling with Data Community Challenge #SWDChallenge
+# Storytelling with Data Community Challenge #SWDchallenge
